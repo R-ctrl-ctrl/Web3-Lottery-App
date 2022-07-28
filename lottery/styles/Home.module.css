@@ -1,0 +1,91 @@
+.container{
+  width: 100%;
+  display: flex;
+}
+
+.first{
+  width: 50%;
+  padding: 30px;
+}
+
+.heading{
+  font-size: 46px;
+  font-weight: bolder;
+}
+
+.compo1{
+  margin-bottom: 10vh;
+}
+
+.playbtn{
+  padding: 16px;
+  background-color: #edddf1;
+  color: blueviolet;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.pickbtn{
+  background-color: #c6f3c7;
+  color: green;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  padding: 16px;
+}
+
+.second{
+  width: 50%;
+  padding-top: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.connectbtn{
+  background-color: #6e68e2;
+  color: white;
+  padding: 12px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.card1{
+  border: 1px solid black;
+  padding: 12px;
+  margin-top: 15px;
+  width: 60%;
+}
+
+.cardheading{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+.card2{
+  width: 60%;
+  padding: 12px;
+  border: 1px solid black;
+  margin-top: 15px;
+
+}
+
+.card3{
+  width: 60%;
+  padding: 12px;
+  border: 1px solid black;
+  margin-top: 15px;
+}
+
+.address{
+  color: blue;
+}
+
+
+
